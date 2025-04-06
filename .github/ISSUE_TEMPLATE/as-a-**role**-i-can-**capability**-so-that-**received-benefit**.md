@@ -1,6 +1,6 @@
 ---
 name: As a **role** I can **capability** so that **received benefit**
-about: User story template
+about: As a **role** I can **capability** so that **received benefit**
 title: ''
 labels: ''
 assignees: ''
